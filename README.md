@@ -1,6 +1,6 @@
 # Data-and-Knowledge-Modelling-and-Analysis
-- - - -
-![DKMA image missing](https://pbs.twimg.com/media/DPugpZTVAAAwA83.jpg)
+
+![DKMA image missing](https://www.i-scoop.eu/wp-content/uploads/2015/11/Data-transformation-unstructured-data-concept.gif.webp)
 
 ## What is this repo about?
  There is a dire need for effective methods to model and analyze the data and extract useful knowledge from it and to know how to act on it. In this series of notebooks you will learn the fundamental tools for assessing, preparing and analyzing data. You will learn to design a data and analysis pipeline to move from raw data to task solution. You will learn to implement a variety of analytical and machine learning algorithms to including supervised, unsupervised and other learning approaches.
@@ -8,9 +8,21 @@
 - - - -
 ## Part 1
 Summary:
-- Load and work with two famous datasets "Iris" and "Hear Disease" 
+- Load and work with two famous datasets "Iris" and "Heart Disease" 
 - Data cleaning approaches: filling missing values, noise reduction, normalization, and visualization
 - Visualization for understanding data: pair plots, scatter plots, correlation and data distribution analysis
 - Statistical analysis on data: correlation coefficient, statistical variables
 - KNN classifier with Sckit-learn: parameter tuning with cross validation, metrics analysis, plot analysis, AUC method analysis
 - Further tuning KNN classifier: weighted KNN approaches, algorithm selection, speed, etc. 
+
+
+## Part 2
+Summary:
+- Two datasets: John Hopkins University CSSE COVID-19 (https://github.com/CSSEGISandData/COVID-19/tree/master/csse_
+covid_19_data), US 2020 Census 
+- Preprocessing data: data cleaning, outlier dealing, normalization, missing value, etc.
+- Representation Learning: PCA, LDA, scree-plot and statistcial analysis, visualization insights, comparing the algorithms
+- Data analysis for classification: original, hybrid, or LDA/PCA constructed data
+- Tree based algorithms for classification with extensive analysis: Decision trees, Random forrest, parameter tuning, group k-fold cross validation, Gradient Tree Boosting
+- Naive bayes classifier (NB):  var smoothing analysis
+- Comparing the performance of NB compared to the decision tree approaches
