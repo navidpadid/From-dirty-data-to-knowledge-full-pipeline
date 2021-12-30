@@ -26,3 +26,14 @@ covid_19_data), US 2020 Census
 - Tree based algorithms for classification with extensive analysis: Decision trees, Random forrest, parameter tuning, group k-fold cross validation, Gradient Tree Boosting
 - Naive bayes classifier (NB):  var smoothing analysis
 - Comparing the performance of NB compared to the decision tree approaches
+
+
+## Part 3
+- Preprocessing data (outlier removal, feature selection, normalization, train-test split, creating 3 different training sets for the 3 targets, etc.)
+- Deep neural network: MLP, model and architecture analysis, tuning the hyperparameters, class weights
+- LSTM networks: model optimization, L2 regularization, activation functions, dropout, batch normalization
+- Deep MLP vs LSTM: thorough analysis (time, accuracy, number of parameters, etc.)
+- Convolutional neural network: Parameter and architecture tuning, padding, activation, classificaiton layer
+- ResNet CNN model: thorough analysis and comparison to the previous CNN model (time, depth, number of parameters)
+
+These codes were written by [Navid Malekghaini](https://www.linkedin.com/in/navid-malek-b9bb6b128/) and [Soheil Johari](https://www.linkedin.com/in/soheil-johari-10568713a/)
