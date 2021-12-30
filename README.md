@@ -1,4 +1,4 @@
-# From dirty data to knowledge with application of AI: Full pipeline
+# From dirty data to knowledge with the application of AI: Full pipeline
 
 ![DKMA image missing](https://www.i-scoop.eu/wp-content/uploads/2015/11/Data-transformation-unstructured-data-concept.gif.webp)
 
