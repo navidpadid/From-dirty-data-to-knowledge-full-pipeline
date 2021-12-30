@@ -36,4 +36,4 @@ covid_19_data), US 2020 Census
 - Convolutional neural network: Parameter and architecture tuning, padding, activation, classificaiton layer
 - ResNet CNN model: thorough analysis and comparison to the previous CNN model (time, depth, number of parameters)
 
-These codes were written by [Navid Malekghaini](https://www.linkedin.com/in/navid-malek-b9bb6b128/) and [Soheil Johari](https://www.linkedin.com/in/soheil-johari-10568713a/)
+These codes were written by [Navid Malekghaini](https://www.linkedin.com/in/navid-malek-b9bb6b128/) and [Soheil Johari](https://www.linkedin.com/in/soheil-johari-10568713a/).
