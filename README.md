@@ -29,6 +29,7 @@ covid_19_data), US 2020 Census
 
 
 ## Part 3
+Summary:
 - Preprocessing data (outlier removal, feature selection, normalization, train-test split, creating 3 different training sets for the 3 targets, etc.)
 - Deep neural network: MLP, model and architecture analysis, tuning the hyperparameters, class weights
 - LSTM networks: model optimization, L2 regularization, activation functions, dropout, batch normalization
